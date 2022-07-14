@@ -9,10 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-promo-2-150.webp",
-          "alt": "🚀 Frete Grátis acima de R$150 ❤️",
-          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
-          "link": "https://www.lab.customic.com.br/"
+          "img": "/img/uploads/banner-desk-10anos.webp",
+          "mobile_img": "/img/uploads/banner-mobile-10anos.png",
+          "alt": "Customic 10 anos"
         },
         {
           "start": "",
@@ -29,6 +28,14 @@
           "link": "https://customic.com.br/pelicula-antiblue-vidro-3d-customic",
           "mobile_img": "/img/uploads/banner-mobile-2022-antiblue-2.webp",
           "alt": "Película AntiBlue Vidro 3D Customic"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/desk-promo-2-150.webp",
+          "alt": "🚀 Frete Grátis acima de R$150 ❤️",
+          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
+          "link": ""
         }
       ],
       "full_width": true
