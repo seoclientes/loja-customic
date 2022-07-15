@@ -7,6 +7,11 @@
         "type": 301
       },
       {
+        "source": "/pages/pelicula-flex",
+        "destination": "/pelicula-flex",
+        "type": 302
+      },
+      {
         "source": "/seed-eco-case-petroleum",
         "destination": "/seed-eco-case-all",
         "type": 301
