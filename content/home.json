@@ -9,9 +9,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-desk-10anos.webp",
-          "mobile_img": "/img/uploads/banner-mobile-10anos.png",
-          "alt": "Customic 10 anos"
+          "img": "/img/uploads/desk-ajuste-1-.webp",
+          "alt": "🚀 Frete Grátis acima de R$99 ❤️",
+          "mobile_img": "/img/uploads/mobile-ajuste-1-.webp",
+          "link": ""
         },
         {
           "start": "",
@@ -24,18 +25,17 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/atualizados-2400x932-atiblue.webp",
-          "link": "https://customic.com.br/pelicula-antiblue-vidro-3d-customic",
-          "mobile_img": "/img/uploads/banner-mobile-2022-antiblue-2.webp",
-          "alt": "Película AntiBlue Vidro 3D Customic"
+          "img": "/img/uploads/banner-desk-10anos.webp",
+          "mobile_img": "/img/uploads/banner-mobile-10anos.png",
+          "alt": "Customic 10 anos"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/desk-ajuste-1-.webp",
-          "alt": "🚀 Frete Grátis acima de R$99 ❤️",
-          "mobile_img": "/img/uploads/mobile-ajuste-1-.webp",
-          "link": ""
+          "img": "/img/uploads/atualizados-2400x932-atiblue.webp",
+          "link": "https://customic.com.br/pelicula-antiblue-vidro-3d-customic",
+          "mobile_img": "/img/uploads/banner-mobile-2022-antiblue-2.webp",
+          "alt": "Película AntiBlue Vidro 3D Customic"
         }
       ],
       "full_width": true
