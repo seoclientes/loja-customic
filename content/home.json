@@ -4,14 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 4000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/banner-desk-10anos.webp",
           "mobile_img": "/img/uploads/banner-mobile-10anos.png",
-          "alt": "Customic 10 anos"
+          "alt": "Customic 10 anos",
+          "link": "https://www.youtube.com/watch?v=83xyE4zJggw"
         },
         {
           "start": "",
