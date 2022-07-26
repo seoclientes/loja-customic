@@ -269,7 +269,7 @@ const hasMegamenu = header.desktop_megamenu
               <% let $categoryLink %>
               <div class="d-inline-block">
                 <a
-                  href="javascript:;"
+                  href="/<%= slug %>"
                   class="header__category"
                   <%- hasMegamenu
                     ? `onmouseover="toggleSubmenu('${slug}', this)" onclick="toggleSubmenu('${slug}', this, true)"`
