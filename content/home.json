@@ -12,7 +12,7 @@
           "img": "/img/uploads/banner-desk-10anos.webp",
           "mobile_img": "/img/uploads/banner-mobile-10anos.png",
           "alt": "Customic 10 anos",
-          "link": "<div><br></div><a id=\"banner-watch-demo\" href=\"https://www.youtube.com/watch?v=83xyE4zJggw\" rel=\"nofollow\" class=\"gtm-button btn btn-naked font-size-15 fresco\" data-fresco-group=\"banner-watch-demo\" title=\"See How It Works\"> <span class=\"btn-txt\">SEE HOW IT WORKS</span> <span class=\"btn-icon\"><i class=\"fa-solid fa-angle-right\"></i></span> </a><div><br></div><p><br></p>"
+          "link": "https://www.youtube.com/watch?v=83xyE4zJggw"
         },
         {
           "start": "",
