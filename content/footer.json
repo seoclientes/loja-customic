@@ -96,16 +96,16 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=customic.com.br"
     },
     {
-      "link": "https://transparencyreport.google.com/safe-browsing/search?url=customic.com.br",
-      "src": "https://i.imgur.com/RxVM87b.png"
-    },
-    {
       "src": "https://i.imgur.com/l7i8Aqh.png",
       "link": "https://www.ssllabs.com/ssltest/analyze.html?d=customic.com.br"
     },
     {
       "src": "/img/uploads/selo-norton-secured-1-.webp",
       "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fcustomic.com.br%2F"
+    },
+    {
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=customic.com.br",
+      "src": "https://i.imgur.com/RxVM87b.png"
     }
   ],
   "payment_methods": {
