@@ -1,12 +1,12 @@
 {
   "sort_categories": [
     "pre-venda",
+    "combos",
     "capas",
     "peliculas",
     "colecoes",
     "popsockets",
-    "acessorios",
-    "combos"
+    "acessorios"
   ],
   "phone_wpp": true,
   "socials": true,
